@@ -1,0 +1,27 @@
+﻿@model EntityLayer.Concrete.Skill
+@{
+    ViewData["Title"] = "AddSkill";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <p class="card-description"> Add New Experience </p>
+            <form class="forms-sample" method="post">
+                <div class="form-group">
+                    <label>Title</label>
+                    @Html.TextBoxFor(x => x.Title, new {@class="form-control"})
+                </div>
+                <div class="form-group">
+                    <label>Value</label>
+                    @Html.TextBoxFor(x => x.Value, new { @class = "form-control" })
+                </div>
+                <button type="submit" class="btn btn-primary mr-2">Save</button>
+                <button class="btn btn-dark">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+

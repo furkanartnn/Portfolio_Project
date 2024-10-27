@@ -1,0 +1,47 @@
+﻿@using EntityLayer.Concrete
+@model List<Service>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+
+
+<div class="card-header border-0">
+    <h3 class="mb-0">Services List Table</h3>
+</div>
+<!-- Light table -->
+<div class="table-responsive">
+    <table class="table align-items-center table-flush">
+        <thead class="thead-light">
+            <tr>
+                <th scope="col" class="sort" data-sort="name">#</th>
+                <th scope="col" class="sort" data-sort="budget">Title</th>
+                <th scope="col" class="sort" data-sort="status">Image</th>
+                <th scope="col">Delete</th>
+                <th scope="col" class="sort" data-sort="completion">Edit</th>
+            </tr>
+        </thead>
+        <tbody class="list">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th>
+                        @item.ServiceID
+                    </th>
+                    <th class="budget">
+                        @item.Title
+                    </th>
+                    <td><a href="/Service/DeleteService/@item.ServiceID" class="btn btn-outline-danger">Delete</a></td>
+                    <td><a href="/Service/EditService/@item.ServiceID" class="btn btn-outline-success">Update</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a href="/Service/AddService" class="btn btn-primary">Add New Services</a>
+</div>
+
+
+
+
+
