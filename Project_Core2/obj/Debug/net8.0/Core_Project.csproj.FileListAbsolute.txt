@@ -269,3 +269,4 @@ C:\Users\furka\source\repos\Project_Core2\Project_Core2\obj\Debug\net8.0\refint\
 C:\Users\furka\source\repos\Project_Core2\Project_Core2\obj\Debug\net8.0\Core_Project.pdb
 C:\Users\furka\source\repos\Project_Core2\Project_Core2\obj\Debug\net8.0\Core_Project.genruntimeconfig.cache
 C:\Users\furka\source\repos\Project_Core2\Project_Core2\obj\Debug\net8.0\ref\Core_Project.dll
+C:\Users\furka\source\repos\Project_Core2\Project_Core2\obj\Debug\net8.0\Core_Project.sourcelink.json

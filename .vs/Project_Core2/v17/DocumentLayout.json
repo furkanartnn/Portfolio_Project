@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\Project_Core2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FEEBE68-F006-4B0F-8801-0FDA0E98CB68}|Project_Core2\\Core_Project.csproj|c:\\users\\furka\\source\\repos\\project_core2\\project_core2\\areas\\writer\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5FEEBE68-F006-4B0F-8801-0FDA0E98CB68}|Project_Core2\\Core_Project.csproj|solutionrelative:project_core2\\areas\\writer\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5FEEBE68-F006-4B0F-8801-0FDA0E98CB68}|Project_Core2\\Core_Project.csproj|c:\\users\\furka\\source\\repos\\project_core2\\project_core2\\areas\\writer\\views\\default\\_navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FEEBE68-F006-4B0F-8801-0FDA0E98CB68}|Project_Core2\\Core_Project.csproj|solutionrelative:project_core2\\areas\\writer\\views\\default\\_navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FEEBE68-F006-4B0F-8801-0FDA0E98CB68}|Project_Core2\\Core_Project.csproj|c:\\users\\furka\\source\\repos\\project_core2\\project_core2\\areas\\writer\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FEEBE68-F006-4B0F-8801-0FDA0E98CB68}|Project_Core2\\Core_Project.csproj|solutionrelative:project_core2\\areas\\writer\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FEEBE68-F006-4B0F-8801-0FDA0E98CB68}|Project_Core2\\Core_Project.csproj|c:\\users\\furka\\source\\repos\\project_core2\\project_core2\\areas\\writer\\views\\shared\\components\\navbar\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FEEBE68-F006-4B0F-8801-0FDA0E98CB68}|Project_Core2\\Core_Project.csproj|solutionrelative:project_core2\\areas\\writer\\views\\shared\\components\\navbar\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEEBE68-F006-4B0F-8801-0FDA0E98CB68}|Project_Core2\\Core_Project.csproj|c:\\users\\furka\\source\\repos\\project_core2\\project_core2\\areas\\writer\\viewcomponents\\navbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEEBE68-F006-4B0F-8801-0FDA0E98CB68}|Project_Core2\\Core_Project.csproj|solutionrelative:project_core2\\areas\\writer\\viewcomponents\\navbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CADCEB-6DA0-4F0A-9E71-32C0BB4777A0}|EntityLayer\\EntityLayer.csproj|c:\\users\\furka\\source\\repos\\project_core2\\entitylayer\\concrete\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CADCEB-6DA0-4F0A-9E71-32C0BB4777A0}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEEBE68-F006-4B0F-8801-0FDA0E98CB68}|Project_Core2\\Core_Project.csproj|c:\\users\\furka\\source\\repos\\project_core2\\project_core2\\areas\\writer\\views\\shared\\components\\notification\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FEEBE68-F006-4B0F-8801-0FDA0E98CB68}|Project_Core2\\Core_Project.csproj|solutionrelative:project_core2\\areas\\writer\\views\\shared\\components\\notification\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +42,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\Project_Core2\\Project_Core2\\Areas\\Writer\\Views\\Profile\\Index.cshtml",
-              "RelativeDocumentMoniker": "Project_Core2\\Areas\\Writer\\Views\\Profile\\Index.cshtml",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\Project_Core2\\Project_Core2\\Areas\\Writer\\Views\\Profile\\Index.cshtml",
-              "RelativeToolTip": "Project_Core2\\Areas\\Writer\\Views\\Profile\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\Project_Core2\\Project_Core2\\Areas\\Writer\\Views\\Shared\\Components\\Navbar\\Default.cshtml",
+              "RelativeDocumentMoniker": "Project_Core2\\Areas\\Writer\\Views\\Shared\\Components\\Navbar\\Default.cshtml",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\Project_Core2\\Project_Core2\\Areas\\Writer\\Views\\Shared\\Components\\Navbar\\Default.cshtml",
+              "RelativeToolTip": "Project_Core2\\Areas\\Writer\\Views\\Shared\\Components\\Navbar\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T11:48:09.937Z",
+              "WhenOpened": "2024-10-28T17:41:33.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProfileController.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\Project_Core2\\Project_Core2\\Areas\\Writer\\Controllers\\ProfileController.cs",
-              "RelativeDocumentMoniker": "Project_Core2\\Areas\\Writer\\Controllers\\ProfileController.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\Project_Core2\\Project_Core2\\Areas\\Writer\\Controllers\\ProfileController.cs",
-              "RelativeToolTip": "Project_Core2\\Areas\\Writer\\Controllers\\ProfileController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "DocumentIndex": 2,
+              "Title": "Navbar.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\Project_Core2\\Project_Core2\\Areas\\Writer\\ViewComponents\\Navbar.cs",
+              "RelativeDocumentMoniker": "Project_Core2\\Areas\\Writer\\ViewComponents\\Navbar.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\Project_Core2\\Project_Core2\\Areas\\Writer\\ViewComponents\\Navbar.cs",
+              "RelativeToolTip": "Project_Core2\\Areas\\Writer\\ViewComponents\\Navbar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T11:48:00.416Z"
+              "WhenOpened": "2024-10-28T17:37:50.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_NavBarPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\Project_Core2\\Project_Core2\\Areas\\Writer\\Views\\Default\\_NavBarPartial.cshtml",
+              "RelativeDocumentMoniker": "Project_Core2\\Areas\\Writer\\Views\\Default\\_NavBarPartial.cshtml",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\Project_Core2\\Project_Core2\\Areas\\Writer\\Views\\Default\\_NavBarPartial.cshtml",
+              "RelativeToolTip": "Project_Core2\\Areas\\Writer\\Views\\Default\\_NavBarPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T17:34:54.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Announcement.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\Project_Core2\\EntityLayer\\Concrete\\Announcement.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Announcement.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\Project_Core2\\EntityLayer\\Concrete\\Announcement.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Announcement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:31:49.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\Project_Core2\\Project_Core2\\Areas\\Writer\\Views\\Shared\\Components\\Notification\\Default.cshtml",
+              "RelativeDocumentMoniker": "Project_Core2\\Areas\\Writer\\Views\\Shared\\Components\\Notification\\Default.cshtml",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\Project_Core2\\Project_Core2\\Areas\\Writer\\Views\\Shared\\Components\\Notification\\Default.cshtml",
+              "RelativeToolTip": "Project_Core2\\Areas\\Writer\\Views\\Shared\\Components\\Notification\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T17:23:26.866Z",
+              "EditorCaption": ""
             }
           ]
         }
